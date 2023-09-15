@@ -5,5 +5,5 @@ Currently studying Java backend development at Nackademin, Stockholm, Sweden. Al
 Typically, any public repository here is a work in progress for trying new concepts, languages, frameworks and tools.  
 
 Get in touch:  
-thomas.krut@yh.nackademin.se  
-thomas.k.krut@gmail.com
+:email: thomas.krut@yh.nackademin.se  
+:email: thomas.k.krut@gmail.com
