@@ -1,6 +1,6 @@
-### Hello, I'm Thomas.
+### Hello.
 
-Currently studying Java backend development at Nackademin, Stockholm, Sweden. Also somewhat familiar with Go, TypeScript, Vue and Kotlin.  
+I'm Thomas. Currently a student at Nackademin, Stockholm, Sweden. Studying Java backend development.  
   
 Typically, any public repository here is a work in progress for trying new concepts, languages, frameworks and tools.  
 
