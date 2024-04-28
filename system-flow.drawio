@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T09:08:38.052Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" etag="SIQxFCBJEGHUUveHNbX4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-28T09:14:31.657Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="yel6PF_5yc2MQpC0ypNr" version="24.3.1" type="github">
   <diagram name="Sida-1" id="EhUlgzo_dybfGtry_Jew">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1095" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zLM3MezMvydmQuZFzrpa-1" value="Build triggas i pipeline" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-2" value="Bygg Go-applikation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-3" value="Dra ner senaste modeller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-4" value="&lt;div&gt;Dra ner image för machine learning-app&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-5" value="&lt;div&gt;Bygg CLI-applikation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-6" value="&lt;div&gt;Pusha image till Container Registry&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-7" value="Pusha image till Container Registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-8" value="&lt;div&gt;Deploya gRPC-server som service till Cloud Run&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-9" value="Request: Träna modeller" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-10" value="Server startas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLM3MezMvydmQuZFzrpa-11" value="Hämta image från Container Registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
